@@ -16,6 +16,5 @@ public class Client {
         String address = "Happy Road No. 666,God Province,Heaven"; //定义一个地址
         String context = "Hello,It's me,do you know who I am? I'm your old lover. I'd like to....";
         hellRoadPostOffice.sendLetter(context, address);
-
     }
 }
